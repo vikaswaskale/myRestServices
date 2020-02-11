@@ -1,2 +1,0 @@
-# myRestServices
-learning microservice
